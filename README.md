@@ -27,7 +27,7 @@ This is a simple project template showcasing the integration of Next.js and Tail
 - Easily customizable styles and components.
 
 # Project Mobile View.
-![Mobile view of webiste](https://github.com/Anirudhchoudhary/Portfolio-next-js.git/public/portfolio_website_mobile.png)
+![Mobile view of webiste](https://github.com/Anirudhchoudhary/Portfolio-next-js/blob/master/public/portfolio_website_mobile.png)
 
 # Project Desktop View.
-![Desktop view of webiste](https://github.com/Anirudhchoudhary/Portfolio-next-js.git/public/portfolio_website_desktop.png)
+![Desktop view of webiste](https://github.com/Anirudhchoudhary/Portfolio-next-js/blob/master/public/portfolio_website_desktop.png)
